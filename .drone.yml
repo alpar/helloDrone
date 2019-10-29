@@ -1,4 +1,3 @@
-
 workspace:
   base: /node
   path: drone/node-example
